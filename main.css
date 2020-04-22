@@ -1,0 +1,42 @@
+#title{
+    text-align: center;
+    font-family: 'Bebas Neue';
+    font-size: 100px;
+    margin-top: 25px;
+}
+#subtitle{
+    text-align: center;
+    font-family: 'Bebas Neue';
+}
+#icon{
+    width: 150px;
+    height: 150px;
+    margin-top: 75px;
+}
+.content{
+    margin-top: 75px;
+}
+P{
+    font-family: 'Montserrat';
+    font-size: 22px;
+    margin-top: 110px;
+}
+.footer{
+    text-align: center;
+}
+img{
+    margin-top: 110px;
+}
+.contain{
+    max-width: 85%;
+    margin: 0 auto;
+}
+#left{
+text-align: left;
+}
+#right{
+text-align: right;
+}
+.content2{
+    max-width: 50%;
+}
